@@ -204,6 +204,10 @@ font-size: 3.5rem;
         position: static;
         transform: rotate(0);
     }
+
+    #footer{
+        font-size: medium;
+    }
 }
 
 /* footer */
